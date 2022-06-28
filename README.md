@@ -7,3 +7,6 @@ https://www.educative.io/courses/grokking-the-system-design-interview
 https://www.educative.io/courses/grokking-the-coding-interview  
 https://www.educative.io/courses/grokking-dynamic-programming-patterns-for-coding-interviews  
 https://www.pramp.com/   
+
+#DB
+https://www.prisma.io/dataguide/types/relational/infrastructure-architecture. 
