@@ -10,3 +10,8 @@ https://www.pramp.com/
 
 #DB
 https://www.prisma.io/dataguide/types/relational/infrastructure-architecture. 
+
+# Useful topics
+https://sahil-code.medium.com/how-to-scale-application-to-support-millions-user-a71005856670
+https://www.prisma.io/dataguide/types/relational/infrastructure-architecture
+https://medium.com/javarevisited/read-write-in-different-db-instances-java-spring-a43bf18a5c77
