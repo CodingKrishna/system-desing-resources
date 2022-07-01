@@ -7,6 +7,8 @@ https://www.educative.io/courses/grokking-the-system-design-interview
 https://www.educative.io/courses/grokking-the-coding-interview  
 https://www.educative.io/courses/grokking-dynamic-programming-patterns-for-coding-interviews  
 https://www.pramp.com/   
+https://medium.com/@raxshah/system-design-design-a-distributed-job-scheduler-kiss-interview-series-753107c0104c
+
 
 #DB
 https://www.prisma.io/dataguide/types/relational/infrastructure-architecture. 
