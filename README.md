@@ -18,3 +18,10 @@ https://sahil-code.medium.com/how-to-scale-application-to-support-millions-user-
 https://www.prisma.io/dataguide/types/relational/infrastructure-architecture
 https://medium.com/javarevisited/read-write-in-different-db-instances-java-spring-a43bf18a5c77
 http://fedulov.website/2015/10/14/dynamic-datasource-routing-with-spring/
+
+https://wondernetwork.com/pings  
+https://www.whatsmydns.net/#A/www.cisco.com  
+https://multipass.run/?_ga=2.144428029.994789033.1656907755-1203997179.1656907755  
+https://www.virtualbox.org/wiki/Downloads. 
+https://landscape.cncf.io/card-mode
+
