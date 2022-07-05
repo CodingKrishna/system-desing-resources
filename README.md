@@ -24,4 +24,4 @@ https://www.whatsmydns.net/#A/www.cisco.com
 https://multipass.run/?_ga=2.144428029.994789033.1656907755-1203997179.1656907755  
 https://www.virtualbox.org/wiki/Downloads. 
 https://landscape.cncf.io/card-mode
-
+https://ericchiang.github.io/post/containers-from-scratch/
