@@ -1282,3 +1282,6 @@ https://thenewstack.io/
 https://thenewstack.io/ebooks/
 https://www.thoughtworks.com/radar
 https://radar.cncf.io/
+https://thenewstack.io/  
+https://www.packtpub.com/
+    
