@@ -25,3 +25,6 @@ https://multipass.run/?_ga=2.144428029.994789033.1656907755-1203997179.165690775
 https://www.virtualbox.org/wiki/Downloads. 
 https://landscape.cncf.io/card-mode
 https://ericchiang.github.io/post/containers-from-scratch/
+
+
+https://betterprogramming.pub/modern-day-architecture-design-patterns-for-software-professionals-9056ee1ed977
