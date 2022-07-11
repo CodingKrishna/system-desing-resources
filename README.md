@@ -28,3 +28,4 @@ https://ericchiang.github.io/post/containers-from-scratch/
 
 
 https://betterprogramming.pub/modern-day-architecture-design-patterns-for-software-professionals-9056ee1ed977
+https://medium.com/backendarmy/introduction-to-system-architecture-design-fcd4f327b6c9
