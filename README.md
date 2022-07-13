@@ -31,3 +31,5 @@ https://betterprogramming.pub/modern-day-architecture-design-patterns-for-softwa
 https://medium.com/backendarmy/introduction-to-system-architecture-design-fcd4f327b6c9
 https://medium.com/@nvashanin/the-path-to-becoming-a-software-architect-de53f1cb310a
 
+#blockchain
+https://medium.com/coinmonks/implementing-blockchain-and-cryptocurrency-with-pow-consensus-algorithm-in-node-js-part-2-4524d0bf36a1
