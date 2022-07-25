@@ -33,3 +33,6 @@ https://medium.com/@nvashanin/the-path-to-becoming-a-software-architect-de53f1cb
 
 # blockchain
 https://medium.com/coinmonks/implementing-blockchain-and-cryptocurrency-with-pow-consensus-algorithm-in-node-js-part-2-4524d0bf36a1
+
+# O notation
+https://www.youtube.com/watch?v=Mo4vesaut8g
